@@ -3,7 +3,7 @@ package com.bootcoding.java.opps.inheritance;
 public class Appliction {
     public static void main(String[] args) {
         ComputerTable ct = new ComputerTable();
-        ct.legs = 4;
+        ct.legs = 5;
         ct.tabletop = true;
         ct.material = new Material();
         ct.tabletype = "Compute";
@@ -11,7 +11,7 @@ public class Appliction {
         ct.move();
 
         DinningTable di = new DinningTable();
-        di.legs = 4;
+        di.legs = 5;
         di.tabletop = true;
         di.material = new Material();
         di.tabletype = "dinning";
@@ -19,7 +19,7 @@ public class Appliction {
         di.move();
 
         DressingTable drt = new DressingTable();
-        drt.legs = 4;
+        drt.legs = 5;
         drt.tabletop = true;
         drt.material = new Material();
         drt.tabletype = "Dressing";
