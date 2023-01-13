@@ -2,7 +2,7 @@ package com.bootcoding.java.opps;
 
 public class CycleAppliction {
     public static void main(String[] args) {
-        Cycle c = new Cycle();
+        Cycle ce = new Cycle();
         Cycle c1 = Cycle.createcycle();
         Cycle c2 = Cycle.createcycle( "gc", 9, "hero");
         Cycle.printcycle(c1);
