@@ -1,4 +1,4 @@
-package com.bootcoding.java.opps;
+package com.bootcoding.java.scanner;
 
 import java.util.Scanner;
 
@@ -52,7 +52,7 @@ public class ScannerDemo1 {
 
 
 /*
-wam to find largest lement of an array
+wam to find largest element of an array
 
 public int FindLrgest(int[] numbers){
 }
