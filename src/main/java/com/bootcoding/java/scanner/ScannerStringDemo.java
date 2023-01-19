@@ -19,7 +19,7 @@ public class ScannerStringDemo {
 
                      }
                  }
-        return chars;
+        return chars[];
     }
 }
 //wap take input from scanner
