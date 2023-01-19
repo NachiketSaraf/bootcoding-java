@@ -13,7 +13,7 @@ public class Remainder3 {
         checkRemainder(num);
     }
     private static void checkRemainder(int num){
-        for (int i = 1;i <= 100; i++){
+        for (int i = 1;i <= num; i++){
             if (i % num == 3){
                 System.out.println(i);
             }
