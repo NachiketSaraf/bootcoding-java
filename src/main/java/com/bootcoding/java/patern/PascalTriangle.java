@@ -21,13 +21,9 @@ public class PascalTriangle {
                 }else{
                     count=count*(i-l+1)/l; // 1. Parenthesis, 2.substraction, 3. Addition, 4. Multiplication, 5.Division
                 }
-
                 System.out.print(count + " ");
             }
-
-
             System.out.println();
-
         }
     }
 }
