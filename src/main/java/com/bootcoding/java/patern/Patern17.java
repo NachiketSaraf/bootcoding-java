@@ -5,7 +5,7 @@ import java.awt.*;
 public class Patern17 {
     public static void main(String[] args) {
         int c = 0;
-        System.in.read();
+
         printTriangle(5);
     }public static void printTriangle(int n) {
         for (int i = 0 ; i < n  ; i++){
