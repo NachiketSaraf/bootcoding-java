@@ -14,8 +14,9 @@ public class Palendrom {
                 n = n/10;
             }
             if(temp == rem){
-                System.out.println(temp+" is Palendrom");
+                System.out.println(temp+" is palendrom");
             }
+            else System.out.println(temp+" is not palendrom");
         }
     }
 }
