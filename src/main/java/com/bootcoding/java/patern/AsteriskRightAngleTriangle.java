@@ -2,7 +2,7 @@ package com.bootcoding.java.patern;
 
 public class AsteriskRightAngleTriangle {
     public static void main(String[] args) {
-        printRightAngleTranngle(1);
+        printRightAngleTranngle(4);
     }
     private static void printRightAngleTranngle(int n){
         for (int i =0 ; i <= n ; i++ ){
