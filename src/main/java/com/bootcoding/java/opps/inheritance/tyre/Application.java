@@ -20,6 +20,8 @@ public class Application {
         tt.diameter = 20;
         System.out.println(tt);
 
+        System.out.println();
+
         TubelessTyre tl1 = new TubelessTyre();
         tl.company = "CEAT";
         tl.material = "Rubber";
