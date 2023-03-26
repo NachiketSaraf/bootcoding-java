@@ -14,6 +14,6 @@ public class Application {
         sham.type ="Regular";
         Discount shamDiscount = new Discount();
         int discountSham = ramDiscount.giveDiscount(ram);
-        System.out.println(ram.name+" is a "+ram.type+" customer and got a discount of "+discount);
+        System.out.println(ram.name+" is a "+ram.type+" customer and got a discount of "+discountSham);
     }
 }
