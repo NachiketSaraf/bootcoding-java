@@ -1,4 +1,4 @@
-package com.bootcoding.java.opps.discountcheker;
+package com.bootcoding.java.opps.discountCheker;
 
 public class Application {
     public static void main(String[] args) {
@@ -10,4 +10,3 @@ public class Application {
         System.out.println(ram.name+" is a "+ram.type+" customer and got a discount of "+discount);
     }
 }
-
