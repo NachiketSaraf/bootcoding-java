@@ -30,7 +30,15 @@ public class Application {
         tl.diameter = 19;
         System.out.println(tl1);
 
+        System.out.println();
 
+        TubeTyre tt1 = new TubeTyre();
+        tt.company="CEAT";
+        tt.material="Rubber";
+        tt.type = "Tuber";
+        tt.compatable ="Mountain bike";
+        tt.diameter = 20;
+        System.out.println(tt1);
     }
 
 }
