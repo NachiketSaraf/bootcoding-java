@@ -19,6 +19,16 @@ public class Application {
         tt.compatable ="Mountain bike";
         tt.diameter = 20;
         System.out.println(tt);
+
+        TubelessTyre tl1 = new TubelessTyre();
+        tl.company = "CEAT";
+        tl.material = "Rubber";
+        tl.type = "TubeLess";
+        tl.compatable = "bike";
+        tl.diameter = 19;
+        System.out.println(tl1);
+
+
     }
 
 }
