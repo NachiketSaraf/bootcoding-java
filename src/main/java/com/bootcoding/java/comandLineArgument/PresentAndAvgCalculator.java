@@ -8,11 +8,9 @@ public class PresentAndAvgCalculator {
             System.out.println("Invalid input! please provide proper input");
         }else {
             if (args[0].equals("average")) {
-                double avg = averageCalculator(args);
-                System.out.printf("average = %.3f ", avg);
+                System.out.printf("average = %.3f ", averageCalculator(args));
             } else if (args[0].equals("percentage")) {
-                double per = percentageCalculator(args);
-                System.out.printf("Presetage = %.3f", per);
+                System.out.printf("percentage = %.3f", percentageCalculator(args));
             } else {
                 System.out.println("Invalid");
             }
