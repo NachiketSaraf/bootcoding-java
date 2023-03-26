@@ -1,4 +1,4 @@
-package com.bootcoding.java.opps.discountcheker;
+package com.bootcoding.java.opps.discountCheker;
 
 public class Customer {
     String type;
