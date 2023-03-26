@@ -1,4 +1,4 @@
-package com.bootcoding.java.opps.discountcheker;
+package com.bootcoding.java.opps.discountCheker;
 
 public class Discount {
     public int giveDiscount(Customer c) {
