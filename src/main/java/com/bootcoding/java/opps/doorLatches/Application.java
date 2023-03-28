@@ -7,6 +7,8 @@ public class Application {
         for (int i = 0;i<4;i++){
             latches[i] = new Latches();
         }
+        Door door = new Door();
+        door.latches = latches;
 
     }
 }
