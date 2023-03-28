@@ -10,7 +10,7 @@ public class Application {
         }
         Door door = new Door();
         door.latches = latches;
-        door.lock =l
+        door.lock =Lock;
 
     }
 }
