@@ -1,4 +1,4 @@
-package com.bootcoding.java.opps.doorLatches;
+package com.bootcoding.java.opps.compostion.doorLatches;
 
 public class Application {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Application {
         }
         Door door = new Door();
         door.latches = latches;
-        door.lock =l;
-
+        door.lavda =l;
+        System.out.println(door.latches);
     }
 }
